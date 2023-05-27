@@ -1,5 +1,5 @@
 # ClaireSchool
-==========================
+
 
 include:
 2 explosion 
@@ -10,7 +10,7 @@ demo scene
 POST PROCESS NOT INCLUDE
 
 
----------------------
+---
 
 shaders:
 
